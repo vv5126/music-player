@@ -230,7 +230,7 @@ public class MusicActivity extends AppCompatActivity {
 
                 switch (index) {
                     case 0:
-                        showInfo("傻逼");
+                        showInfo("哈哈");
                         break;
                     case 1:
                  //       mSimpleAdapter.notifyDataSetChanged();
